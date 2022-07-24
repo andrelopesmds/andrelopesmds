@@ -10,4 +10,4 @@ I'm a DevOps enthusiastic with a passion for Backend technologies. In my spare t
 
 Favorites: Node.js, JavaScript/TypeScript, React, Python, Docker, GitHub Actions, and AWS CDK.
 
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
