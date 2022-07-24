@@ -2,4 +2,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=andrelopesmds/andrelopesmds)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=andrelopesmds&logoColor=white)](https://www.linkedin.com/in/andrelopesmds/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Santos-2d81cb?style=flat-square&labelColor=3fb0ff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrelopesmds/)](https://www.linkedin.com/in/andrelopesmds/)
